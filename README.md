@@ -1,2 +1,2 @@
 # google-homepage
-first attempt copying html page
+first attempt copying google homepage
